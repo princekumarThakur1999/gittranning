@@ -1,1 +1,2 @@
-Firt line of the master filemaster.txt file
+First line of the master filemaster.txt file
+Second line of the master filemaster.txt file
